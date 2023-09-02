@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random Cricketer</title>
+    <link rel="stylesheet" href="{% static 'task.css' %}">
+</head>
+<body>
+    <div class="overlay">
+        
+        <div class="h1">
+            <h1>CRICKETERS</h1>
+            <div class="cricketer-details"><p>Cricketers are skilled athletes who participate in the sport of cricket, showcasing their batting, bowling, and fielding abilities on the cricket field.!!!!!</p></div>
+        </div>
+        
+        <h2> {{ cricketer.name }} </h2>
+        <img src="{{ cricketer.photo_url }}" alt="{{ cricketer.name }}" width="200">
+        <div class="cricketer-details">
+        <p>Name: {{ cricketer.name }}</p>
+        <p>Date of Birth: {{ cricketer.dob }}</p>
+        
+        <br><br>
+        <a href="{% url 'task' %}">Click here to see another random cricketer</a>
+        </div>
+    </div>
+    
+</body>
+</html>
+
+
+

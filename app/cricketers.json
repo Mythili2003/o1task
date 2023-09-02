@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Virat Kohli",
+        "photo_url": "https://www.finetoshine.com/wp-content/uploads/2020/09/1599857403_85_Virat-Kohli-Wallpaper-Full-HD-Image-Pics-Download-image.jpg",
+        "dob": "November 5, 1988"
+    },
+    {
+        "name": "Rohit Sharma",
+        "photo_url": "https://w0.peakpx.com/wallpaper/599/591/HD-wallpaper-rohit-sharma-200-45-hitman-rs.jpg",
+        "dob": "April 30, 1987"
+    },
+    {
+        "name": "KL Rahul",
+        "photo_url": "https://koloapp.in/magazine/wp-content/uploads/2022/04/effortless-stylish-hair-looks-of-kl-rahul-to-copy-2.jpeg",
+        "dob": "April 18, 1992"
+    },
+    {
+        "name": "Shubman Gill",
+        "photo_url": "https://pbs.twimg.com/media/Fbfewj9aQAERyHg.jpg",
+        "dob": "September 8, 1999"
+    },
+    {
+        "name": "Shreyas",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jxv7sMFjyRh9afTqMzWLMT2R8P_IW_TTM9jFvIxSc6Q0R76fRIuXZRrkA-2BxV3HGEs&usqp=CAU",
+        "dob": "December 6, 1994"
+    },
+    {
+        "name": "Hardik pandya",
+        "photo_url": "https://scontent.fvga2-3.fna.fbcdn.net/v/t39.30808-6/300790548_630757111747150_9079185683463628092_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=0VjJBvKYcBsAX99HSDl&_nc_ht=scontent.fvga2-3.fna&oh=00_AfB-oVefRUEr6MH7E8Nryah2QY8GimX1yurkBcHA5nc5CQ&oe=64F7A6AF",
+        "dob": "October 11, 1993"
+    }
+]
